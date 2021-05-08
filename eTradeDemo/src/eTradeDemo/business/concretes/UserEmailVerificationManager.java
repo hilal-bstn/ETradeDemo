@@ -7,7 +7,7 @@ public class UserEmailVerificationManager implements UserVerifyService {
 	@Override
 	public void Send() 
 	{
-		System.out.println("Kullanıcı doğrulama emaili gönderildi.");
+		System.out.println("KullanÃ½cÃ½ doÃ°rulama maili gÃ¶nderildi.");
 	}
 
 }
